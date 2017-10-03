@@ -1,0 +1,4 @@
+"Last Name:", "First Name:", "Nickname:", "Email 1:", "Email 2:", "Phone 1:", "Phone 2:", "Address:", "Website:", "Birthday:", "Notes:", 
+"Chi", "Stephen", "Steve", "", "", "1234455677", "", "Booklyn, NY", "Steve's site", "", "This is steve's note", 
+"Gallagher", "Kevin", "", "kgall@hunter.cuny.edu", "", "", "", "someplace", "asdsad", "yesterday", " 12#!@#@!", 
+"Paing", "Ye", "", "", " ", "", " ", "", "", "", "", 

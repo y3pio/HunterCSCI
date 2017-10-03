@@ -1,0 +1,70 @@
+# Assume the system opens at 6:00 AM with no passengers until that time
+
+06.passengers.volume.A = 5
+06.passengers.volume.B = 10
+06.passengers.destination.B = 5
+
+07.passengers.volume.A = 5
+07.passengers.volume.B = 15
+07.passengers.destination.B = 5
+
+08.passengers.volume.A = 7
+08.passengers.volume.B = 25
+08.passengers.destination.B = 10
+
+09.passengers.volume.A = 4
+09.passengers.volume.B = 20
+09.passengers.destination.B = 15
+
+10.passengers.volume.A = 5
+10.passengers.volume.B = 10
+10.passengers.destination.B = 30
+
+11.passengers.volume.A = 3
+11.passengers.volume.B = 8
+11.passengers.destination.B = 35
+
+12.passengers.volume.A = 2
+12.passengers.volume.B = 7
+12.passengers.destination.B = 50
+
+13.passengers.volume.A = 3
+13.passengers.volume.B = 5
+13.passengers.destination.B = 50
+
+14.passengers.volume.A = 3
+14.passengers.volume.B = 2
+14.passengers.destination.B = 60
+
+15.passengers.volume.A = 5
+15.passengers.volume.B = 10
+15.passengers.destination.B = 65
+
+16.passengers.volume.A = 15
+16.passengers.volume.B = 10
+16.passengers.destination.B = 75
+
+17.passengers.volume.A = 25
+17.passengers.volume.B = 5
+17.passengers.destination.B = 95
+
+18.passengers.volume.A = 15
+18.passengers.volume.B = 5
+18.passengers.destination.B = 95
+
+19.passengers.volume.A = 10
+19.passengers.volume.B = 3
+19.passengers.destination.B = 90
+
+20.passengers.volume.A = 8
+20.passengers.volume.B = 3
+20.passengers.destination.B = 90
+
+21.passengers.volume.A = 3
+21.passengers.volume.B = 2
+21.passengers.destination.B = 90
+
+22.passengers.volume.A = 2
+22.passengers.volume.B = 2
+22.passengers.destination.B = 85
+

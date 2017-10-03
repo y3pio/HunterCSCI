@@ -1,0 +1,50 @@
+//////////////////////////////////////////////////////
+//LIST OF BOOK HOLDINGS SORTED BY AUTHOR'S LAST NAME//
+//////////////////////////////////////////////////////
+
+C0009	Andrews Russell	Aphrodite	novel	available
+C0038	Arce	Hector	The_secret_life_of_Tyrone_Power	fiction	unavailable
+C0045	Bachman	Richard	Blaze	science_fiction  available
+C0007	Bernal	Rafael	El_complot_mongol	fiction	available
+C0044	Bloor	Edward	Tangerine	poetry		unavailable
+C0015	Bolton Carole	Little_girl_lost	fiction	available
+C0022	Bolton Carole	The_search_of_Mary_Katherine_Mulloy	fiction	available
+C0021	Bonanno	Joseph	A_man_of_honor	essay  unavailable
+C0027	Carter	Mary_Ellen	Edgar_Cayce_modern_prophet	biography	unavailable
+C0040	Chatwin	Bruce	In_patagonia	poetry	available
+C0035	Davis	Flora	Living_alive	essay  available
+C0049	DeWeese	Jean	Chain_of_attack	science_fiction  available
+C0011	Dibner	Martin	Devil's_paintbrush	novel	available
+C0033	Dolan	Brian	Wedgwood_the_first_tycoon	fiction	available
+C0023	Duffey	Betsy	Utterly_hours_Booker_Jones	essay  available
+C0025	Fackler	Elizabeth	Badlands_Seth_Strummar_series	fiction	available
+C0030	Fackler	Elizabeth	Backtrail_Seth_Strummar_series	fiction	available
+C0047	Fackler	Elizabeth	Blood_kin_Seth_Strummar_series	fiction	available
+C0036	Farrow	John	Citi_of_ice	science_fiction  available
+C0042	Forbes	Colin	The_stone_leopard	science_fiction  available
+C0020	Frankel	Charles	The_pleasures_of_philosophy	philosophy	available
+C0002   Gibson  William     Neuromencer     science_fiction  available
+C0005	Gottlieb	Robert	George_Balanchine_The_Ballet_Maker	novel unavailable
+C0003   Heidegger   Martin  Being_and_time   philosophy  unavailable
+C0010	Horne	Jo	Homesharing_and_other_lifestyle_options essay  unavailable
+C0004   Kundera   Milan  The_unbearable_lightness_of_being  novel  available
+C0032	Kunitz	Stanley	The_Collected_Poems	poetry	available
+C0046	Kunitz	Stanley	Interviews_and_encounters_with_Stanley_Kunitz	biography	unavailable
+C0034	Metalious	Grace	Peyton_Place	novel available
+C0024	Millett	Kate	Loony_bin_trip	novel unavailable
+C0012	Mlynowski Sarah	Spells_and_Sleeping_Bags	mystery	unavailable
+C0013	Mlynowski Sarah Frogs_and_French_Kisses	novel	available
+C0014	Mlynowski Sarah See_Jane_Write_A_Girl's_Guide_to_Writing fiction	available
+C0028	Neimark	Annie	Che_Latin_America's_legendary_guerrilla	biography	available
+C0029	Neimark	Annie	The_deaf_child_listened	fiction	available
+C0041	Piersall	Jimmy	The_truth_hurts	essay	unavailable
+C0048	Rosten	Leo	The_joys_of_Yiddish	novel unavailable
+C0050	Rosten	Leo	Touch_of_the_past	novel available
+C0031	Sandoval	Lynda	Desesperada	fiction	unavailable
+C0006	Shinn Sharon	Archangel	mystery	available
+C0037	Styron	William	The_long_march	fiction	available
+C0043	Styron	William	The_confessions_of_Nat_Turner	fiction	available
+C0026	Swenson	John	Stevie_Wonder	biography	available
+C0008	Ward Barbara	Progress_for_a_small_planet	science_fiction  available
+C0039	Wells	Ken	Junior's_leg	essay	unavailable
+C0001   Woolf  Viriginia   A_room_of_one’s_own     essay available

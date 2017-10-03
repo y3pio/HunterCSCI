@@ -1,0 +1,49 @@
+Suppose a blob of dioxin-rich pesticide is spilled into Monterey Bay. It might quickly disperse to the Pacific Ocean. But hours later, a spill of the same size at the same spot could circle near the coastline, posing a greater danger to marine life. The briny surface waters of the bay churn so chaotically that a slight shift in the place or time an oil drop, a buoy — or even a person — falls in can dictate whether it is swept out to the open ocean or swirls near the shore.
+
+But the results are not unpredictable. A team of scientists studying Monterey Bay since 2000 has found that underlying its complex, seemingly jumbled currents is a structure that guides the dispersal patterns, a structure that changes over time.
+
+With the aid of high-frequency radar that tracks the speed and direction of the flowing waters, and computers that rapidly perform millions of calculations, the scientists found that a hidden skeleton guided whether floating debris lingered or exited the bay.
+
+Over the past 10 years, scientists have made enormous strides in their ability to identify and make images of the underlying mechanics of flowing air and water, and to predict how objects move through these flows.
+
+Assisted by instruments that can track in fine detail how parcels of fluid move, and by low-cost computers that can crunch vast amounts of data quickly, researchers have found hidden structures beyond Monterey Bay, structures that explain why aircraft meet unexpected turbulence, why the air flow around a car causes drag and how blood pumps from the heart’s ventricles. In December, the journal Chaos will highlight the research under way to track the moving skeletons embedded in complex flows, known as Lagrangian coherent structures.
+
+“There’s been an explosion of interest in this area,” said David K. Campbell, editor in chief of Chaos, a physicist and provost at Boston University. “Why it’s become more interesting is that experimentalists can now watch these structures emerge.”
+
+The patterns of flow have fascinated thinkers for centuries. In the 1500s, Leonardo da Vinci sketched the swirling eddies he saw in rivers and the vortexes of blood he imagined in the aortic valve. Just as those visible patterns of flow change quickly, eluding our ability to predict the fate of objects caught up in them, the hidden structures of flow also move and morph over time.
+
+The concept of the structures grew out of dynamical systems theory, a branch of mathematics used to understand complicated phenomena that change over time. The discovery of the structures in a wide range of real-world cases has shown that they play a key role in complex and chaotic fluid flows in the atmosphere and ocean.
+
+The structures are invisible because they often exist only as dividing lines between parts of a flow that are moving at different speeds and in different directions. In the ocean, the path of a drop of water on one side of such a structure might diverge from the path of a drop of water on the other side; they will drift farther apart as time passes.
+
+“They aren’t something you can walk up to and touch,” Jerrold E. Marsden, an engineering and mathematics professor at Caltech, said of the structures. “But they are not purely mathematical constructions, either.”
+
+As an analogy, Dr. Marsden suggests imagining a line that divides a part of a city that has been affected by a disease outbreak from a part that has not. The line is not a fence or a road, but it still marks a physical barrier. And as the outbreak spreads, the line will change.
+
+To find the structures, scientists must track flow, not by watching it go by but from the perspective of the droplets of water or molecules of air moving in it. “It’s like being a surfer,” Dr. Campbell said. “You want to catch the wave and move with the wave.”
+
+In the laboratory, researchers shine lasers on tiny particles caught in a flow, capturing their speed and trajectory with fast, high-resolution digital cameras similar to the way tracer rounds from machine guns track the path of bullets. In the ocean or atmosphere, scientists rely on instantaneous data from high-frequency radar, laser detection systems, buoys and satellites. In the human body, phase-contrast magnetic resonance imaging has helped researchers map the complex patterns of blood flow in detail. Computers take in the data from all those sources, applying algorithms that unveil the flow structures.
+
+“We’re just recognizing that these things exist and are playing a role in a variety of scenarios,” said Thomas Peacock, a mechanical engineering professor at M.I.T. who is evaluating how Lagrangian coherent structures affect vehicle performance and efficiency. “The idea is that cars, airplanes and submarines down the line would be fitted with sensors that will help them adapt to these structures.”
+
+Studies of the air flow patterns surrounding Hong Kong International Airport have shown that Lagrangian coherent structures cause unexpected jolts to planes during landing attempts, forcing pilots to waste fuel while they revert to holding patterns. George Haller, an engineering professor at McGill University in Montreal who forged the mathematical criteria for finding such structures in fluid flows, is working with the airport’s officials to design a tool that allows pilots to see and navigate around the structures. It will rely on data from laser scans, analyzed by computers as planes approach the airport.
+
+At Stanford, researchers are mapping blood flow in patients with abdominal aortic aneurysms to see whether frequent exercise changes the flow structures in ways that correlate to slower bulging of the artery.
+
+The scientists studying Monterey Bay found a Lagrangian coherent structure that acts as a moving ridge, separating a region of the bay that spreads pollutants out to sea and a region that recirculates them in the bay. They watched this ridge drift and change over 22 days and found that if computed in real time, it could be used to predict one-day windows when pollutants could do less damage to the bay environment.
+
+The scientists proposed building a holding tank for the fertilizers and pesticides that wash from farmland into the neighboring watershed that could release pollutants only at times when they would quickly drift into the ocean, where they would be so diluted they would pose less harm to marine life. In a later experiment, scientists found that the path of buoys dispatched in the bay followed the path predicted by the computer simulations.
+
+Researchers who studied the waters along the southeastern coast of Florida found a similar structure that they argued could be used to reduce the effects of pollution near Hollywood Beach, south of Fort Lauderdale.
+
+Their research in Monterey Bay piqued the interest of Art Allen, a physical oceanographer for the Coast Guard who thinks that Lagrangian coherent structures could improve search-and-rescue operations for people lost at sea by offering more precision than current techniques.
+
+Researchers in private industry and the French Navy have expressed interest in using models of the structures to track the spread of oil after spills in coastal areas, said Francois Lekien, an applied mathematics professor at the École Polytechnique at the Université Libre de Bruxelles in Belgium who was a co-author of the bay studies.
+
+Strategies based on Lagrangian coherent structures have yet to be tested to see if they curb coastal pollution. And they have several limitations. Scientists cannot yet predict what happens to pollutants that do not float on the ocean surface. The models do not yet account for the interaction with wind patterns that also guide how floating objects or people drift at sea. The method also requires continuing, detailed data akin to what was available in Monterey Bay, which has an ocean monitoring program that far surpasses that of most coastal areas.
+
+Even if the structures in flow do not guide engineering or pollution strategies as well as researchers hope, many scientists believe that unearthing and visualizing them provides useful insights. For example, the structures identified in coastal waters have exposed flaws in our intuition about flow. “There are myths out there that it’s O.K. to dump pollutants at high tide,” said Dr. Marsden, co-author of the Monterey Bay and coastal Florida studies. “But it’s really these structures that will determine where pollutants end up.”
+
+Finding the structures in various settings has also given researchers a fresh perspective on what remains a great scientific puzzle: the dynamics of flow.
+
+“In complex systems such as the atmosphere, there are a lot of things that people can’t explain offhand,” Dr. Haller said. “People used to attribute this to randomness or chaos. But it turns out, when you look at data sets and find these structures, you can actually explain those patterns.”

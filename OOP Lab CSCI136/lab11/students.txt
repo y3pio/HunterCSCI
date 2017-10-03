@@ -1,0 +1,13 @@
+Amin Md    000000000     F 4.0   60
+
+
+Buer Alexander 000000001    F     4.0    60
+
+
+Butiong Russell   000000002    F
+
+Byfield    Leighton   000000003   F
+Choy Brian   000000004    F
+Dalman Daryl   000000005  F 4.0   60
+
+Dvorkin Arthur  000000006   F

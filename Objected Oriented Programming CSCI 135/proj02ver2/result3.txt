@@ -1,0 +1,16 @@
+///////////////////////////
+//STATUS OF REQUEST BOOKS//
+///////////////////////////
+
+C0049 Chain_of_attack available
+C0024 Loony_bin_trip unavailable
+C0013 Frogs_and_French_Kisses available
+C0003 Being_and_time unavailable
+C0053  unavailable
+C0006 Archangel available
+C0023 Utterly_hours_Booker_Jones available
+C0098  unavailable
+C9234  unavailable
+C0012 Spells_and_Sleeping_Bags unavailable
+C0044 Tangerine unavailable
+  

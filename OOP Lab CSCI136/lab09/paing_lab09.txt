@@ -1,0 +1,49 @@
+1) Debug Testing for triangletype_err1.c
+
+Line 118: (a+b < c) - This should be a+b <= c. Found it by reading the error output
+		      of "%.5f + %.5f <= %.5f". Furthermore, in the comments below,
+		      indicate that a + b > c, this cannot be true if it a + b < c, 
+		      since if the sum of a+b can equal to c, this erro won't be caught.
+
+	Test Case: 2 2 4, will give you a result of Isosceles obtuse triangle, where it should
+		   have given an error output. Any input of a + b = c will give you this error.
+
+2) Debug Testing for triangletype_err2.c
+
+Line 52: else if(a==b) - This is the test for isosceles triangle if side a and b are equal.
+			 But this file is missing the case for (b==c). This can be fixed
+			 by adding another else if statement for (b==c) or by adding || (b==c).
+
+	Test Case: 3 4 4, or any other input of c x x, where c < x. Entering 3 4 4 for me
+		   gave me an output saying that it is a scalene acute triangle, which is
+		   wrong.
+
+3) Debug Testing for triangletype_err3.c
+
+Line 170 & 177: (a*a + b*b < c*c - 1)
+		(a*a + b*b > c*c + 1) - There should be a +/- 1 as this would cause some triangles
+					that have obtuse/acute angle to be registered as right triangles.
+					This can be fix by removing -1 and + 1 from the 2 cases.
+
+	Test Case: 2 2 3, should give you an acute isosceles triangle. Or any other input of the format
+		   x x y , where x < y will give you the same error result.
+
+4) Debug Testing for triangletype_err4.c
+
+Line 170: ( a*a + b*b + 2*a*b < c*c ) - There is an additional +2*a*b in the case for obtuse triangle.
+					Having this extra addition will cause some obtuse triangle to
+					register as right isosceles right triangle.
+
+	Test Case: 4 4 6, is clearly an Isosceles obtuse triangle as 16 + 16 < 36. But it gave a false
+		   output that states this triangle is an isosceles right triangle.
+
+5) Global Debug Testing
+
+Line 180(Roughly) for ALL files triangletype_err*.c
+
+No case was available for isosceles right triangle. a^2 + b^2 = c^2 where a==b.
+A solution would be to incude a math.h header of some sort and set the square root
+of both sides of the equation to equal to each other, as for an isosceles right 
+triangle, c will ALWAYS be an irrational number.
+
+		   
